@@ -10,3 +10,4 @@ https://dipayan26.github.io/research-digests_claude/
 | 2026-05-02 | [Learning Biophysical Models of Gene Regulation with Probability Flow Matching](daily_digests/research_digest_2026-05-02.md) | Flow Matching · Genomics · Protein LM · Diffusion · SSM · MoE · Clinical ML |
 | 2026-05-03 | [STORM: A Multimodal Foundation Model of Spatial Transcriptomics and Histology](daily_digests/research_digest_2026-05-03.md) | Genomics · Protein LM · Flow Matching · SSM · Architecture · General ML · Clinical ML |
 | 2026-05-14 | [TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation](daily_digests/research_digest_2026-05-14.md) | Diffusion · Flow Matching · Protein LM · Genomics · MoE · Architecture · General ML · Clinical ML |
+| 2026-05-15 | [ENSEMBITS: An Alphabet of Protein Conformational Ensembles](daily_digests/research_digest_2026-05-15.md) | Protein LM · Diffusion · Flow Matching · Genomics · Architecture · MoE · General ML · Clinical ML |
