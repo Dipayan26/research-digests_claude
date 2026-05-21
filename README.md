@@ -14,3 +14,4 @@ https://dipayan26.github.io/research-digest/
 | 2026-05-16 | [RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](daily_digests/research_digest_2026-05-16.md) | Flow Matching · Genomics · Protein LM · Architecture · MoE · General ML |
 | 2026-05-17 | [A-CODE: Fully Atomic Protein Co-Design with Unified Multimodal Diffusion](daily_digests/research_digest_2026-05-17.md) | Diffusion · Protein LM · Architecture · Genomics · General ML · Clinical ML |
 | 2026-05-19 | [CURIE: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design](daily_digests/research_digest_2026-05-19.md) | Diffusion · Clinical ML · Genomics · Architecture · General ML |
+| 2026-05-21 | [MP2D: Constrained Monte Carlo Tree-Guided Diffusion for Multi-Objective Protein Sequence Design](daily_digests/research_digest_2026-05-21.md) | Diffusion · Protein LM · Flow Matching · Genomics · Architecture · General ML · Clinical ML |
